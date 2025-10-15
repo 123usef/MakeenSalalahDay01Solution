@@ -16,6 +16,7 @@ namespace OOP.Models
         public string Lname;
         public decimal Wage; //Rate per hour/day
         public double loggedHours; //
+        public int AbsenceDAY; 
         public string DOB;
 
         //public override string ToString()
